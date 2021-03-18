@@ -1,7 +1,7 @@
 url: $VULTR_TOKYO
-status: down
-code: 521
-responseTime: 484
-lastUpdated: 2021-03-17T23:22:40.000Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2021-03-18T14:14:26.009Z
 startTime: Tue Dec 22 2020 16:08:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
