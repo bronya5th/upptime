@@ -4,18 +4,20 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-#  - name: Hacker News
-#    url: https://news.ycombinator.com
-#  - name: Broken Site
-#    url: https://thissitedoesnotexist.com
-#  - name: Secret Site
-#    url: $SECRET_SITE
-  - name: Miniflux(helf-host)
+# - name: Google
+#   url: https://www.google.com
+# - name: Wikipedia
+#   url: https://en.wikipedia.org
+# - name: Hacker News
+#   url: https://news.ycombinator.com
+# - name: Broken Site
+#   url: https://thissitedoesnotexist.com
+# - name: Secret Site
+#   url: $SECRET_SITE
+  - name: Miniflux-self-hosted
     url: $MINIFLUX_SELF_HOST
+  - name: FreshRSS-self-hosted
+    url: $FRESHRSS_SELF_HOSTED
   - name: Vultr-Tokyo
     url: $VULTR_TOKYO
 
@@ -33,7 +35,7 @@ status-website:
   navbar:
   #  - title: Status
   #    href: /
-    - title: GitHub-repository
+    - title: This-repository-in-gh
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
