@@ -20,6 +20,8 @@ sites:
     url: $FRESHRSS_SELF_HOSTED
   - name: Vultr-Tokyo
     url: $VULTR_TOKYO
+  - name: Cloudreve-self-hosted
+    url: $CLOUDREVE_WEB
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
