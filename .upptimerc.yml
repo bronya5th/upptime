@@ -22,6 +22,8 @@ sites:
     url: $VULTR_TOKYO
   - name: Cloudreve-self-hosted
     url: $CLOUDREVE_WEB
+  - name: My-Ghost-blog
+    url: $GHOST_BLOG_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
