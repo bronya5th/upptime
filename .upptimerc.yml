@@ -16,14 +16,14 @@ sites:
 #   url: $SECRET_SITE
   - name: Miniflux-self-hosted
     url: $MINIFLUX_SELF_HOST
-  - name: FreshRSS-self-hosted
-    url: $FRESHRSS_SELF_HOSTED
+  - name: Gitea
+    url: $GITEA
   - name: Vultr-Tokyo
     url: $VULTR_TOKYO
   - name: Cloudreve-self-hosted
     url: $CLOUDREVE_WEB
-  - name: My-Ghost-blog
-    url: $GHOST_BLOG_URL
+  - name: Halo-blog
+    url: $HALO_BLOG
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
