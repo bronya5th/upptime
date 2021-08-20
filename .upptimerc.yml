@@ -1,17 +1,9 @@
 # Change these first
 owner: bronya5th # Your GitHub username
 repo: upptime # Your Github repository name
-
+user-agent: bronya5th
 # Add your sites here
 sites:
-# - name: Google
-#   url: https://www.google.com
-# - name: Wikipedia
-#   url: https://en.wikipedia.org
-# - name: Hacker News
-#   url: https://news.ycombinator.com
-# - name: Broken Site
-#   url: https://thissitedoesnotexist.com
 # - name: Secret Site
 #   url: $SECRET_SITE
   - name: Miniflux-self-hosted
@@ -24,6 +16,8 @@ sites:
     url: $CLOUDREVE_WEB
   - name: Halo-blog
     url: $HALO_BLOG
+  - name: Misskey
+    url: $MISSKEY
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
