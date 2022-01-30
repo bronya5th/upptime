@@ -11,9 +11,9 @@
     "uptimeMonth": "97.99%",
     "uptimeYear": "98.84%",
     "time": 1008,
-    "timeDay": 1087,
-    "timeWeek": 998,
-    "timeMonth": 1017,
+    "timeDay": 921,
+    "timeWeek": 1018,
+    "timeMonth": 1014,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2022-01-25": 487,
@@ -39,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1241,
-    "timeDay": 1372,
-    "timeWeek": 1234,
-    "timeMonth": 1231,
-    "timeYear": 1241,
+    "time": 1240,
+    "timeDay": 1034,
+    "timeWeek": 1253,
+    "timeMonth": 1223,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2021-08-18": 24
     }
@@ -54,11 +54,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vultr-tokyo",
     "status": "down",
-    "uptime": "87.95%",
+    "uptime": "87.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.44%",
+    "uptimeYear": "87.72%",
     "time": 707,
     "timeDay": 0,
     "timeWeek": 0,
@@ -112,8 +112,7 @@
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
-      "2021-01-31": 1440,
-      "2021-01-30": 1440
+      "2021-01-31": 1440
     }
   },
   {
@@ -122,16 +121,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloudreve-self-hosted",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.28%",
-    "time": 979,
-    "timeDay": 1044,
-    "timeWeek": 1003,
-    "timeMonth": 976,
-    "timeYear": 979,
+    "uptimeYear": "97.29%",
+    "time": 978,
+    "timeDay": 695,
+    "timeWeek": 1005,
+    "timeMonth": 963,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2021-08-20": 1017,
       "2021-08-19": 1440,
@@ -157,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1024,
-    "timeDay": 1033,
-    "timeWeek": 946,
-    "timeMonth": 972,
-    "timeYear": 1024,
+    "time": 1023,
+    "timeDay": 900,
+    "timeWeek": 978,
+    "timeMonth": 966,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2021-08-18": 21
     }
@@ -177,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 1106,
-    "timeWeek": 1003,
-    "timeMonth": 969,
-    "timeYear": 956,
+    "time": 955,
+    "timeDay": 828,
+    "timeWeek": 1024,
+    "timeMonth": 961,
+    "timeYear": 955,
     "dailyMinutesDown": {}
   }
 ]
