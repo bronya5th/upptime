@@ -1,7 +1,7 @@
 url: $MINIFLUX_SELF_HOST
-status: down
-code: 403
-responseTime: 266
-lastUpdated: 2022-07-02T10:45:39.732Z
+status: up
+code: 200
+responseTime: 1076
+lastUpdated: 2022-07-02T10:55:47.059Z
 startTime: Thu Mar 18 2021 14:14:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
