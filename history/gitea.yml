@@ -1,7 +1,7 @@
 url: $GITEA
-status: up
-code: 200
-responseTime: 1345
-lastUpdated: 2022-08-17T06:39:59.856Z
+status: down
+code: 525
+responseTime: 802
+lastUpdated: 2022-08-17T07:33:10.049Z
 startTime: Sun Jul 25 2021 13:53:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
