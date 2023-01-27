@@ -6,12 +6,8 @@ user-agent: bronya5th
 sites:
 # - name: Secret Site
 #   url: $SECRET_SITE
-  - name: Miniflux-self-hosted
-    url: $MINIFLUX_SELF_HOST
   - name: Gitea
     url: $GITEA
-  - name: Cloudreve-self-hosted
-    url: $CLOUDREVE_WEB
   - name: Halo-blog
     url: $HALO_BLOG
   - name: Misskey
