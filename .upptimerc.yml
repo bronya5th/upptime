@@ -8,8 +8,6 @@ sites:
 #   url: $SECRET_SITE
   - name: Gitea
     url: $GITEA
-  - name: Halo-blog
-    url: $HALO_BLOG
   - name: Misskey
     url: $MISSKEY
   - name: Umami
