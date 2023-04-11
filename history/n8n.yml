@@ -1,7 +1,7 @@
 url: $N8N_URL
-status: down
-code: 502
-responseTime: 576
-lastUpdated: 2023-04-11T03:57:24.708Z
+status: up
+code: 200
+responseTime: 829
+lastUpdated: 2023-04-11T04:20:12.918Z
 startTime: Tue Feb 01 2022 07:24:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
