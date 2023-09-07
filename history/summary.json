@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.88%",
-    "time": 1215,
-    "timeDay": 1275,
-    "timeWeek": 1209,
-    "timeMonth": 1132,
+    "time": 1214,
+    "timeDay": 1277,
+    "timeWeek": 1223,
+    "timeMonth": 1133,
     "timeYear": 1229,
     "dailyMinutesDown": {
       "2023-07-18": 438,
@@ -21,8 +21,7 @@
       "2023-04-09": 799,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
-      "2023-04-06": 1296,
-      "2022-09-07": 36
+      "2023-04-06": 1296
     }
   },
   {
@@ -37,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
     "time": 1080,
-    "timeDay": 1263,
-    "timeWeek": 1210,
-    "timeMonth": 1135,
-    "timeYear": 1104,
+    "timeDay": 1248,
+    "timeWeek": 1213,
+    "timeMonth": 1132,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2023-04-11": 23,
       "2023-04-09": 800,
@@ -55,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami",
     "status": "up",
-    "uptime": "97.40%",
+    "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
     "time": 1010,
-    "timeDay": 1079,
-    "timeWeek": 985,
-    "timeMonth": 904,
+    "timeDay": 1060,
+    "timeWeek": 1003,
+    "timeMonth": 903,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2023-04-09": 800,
@@ -78,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n8n",
     "status": "up",
-    "uptime": "91.87%",
+    "uptime": "91.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 977,
-    "timeDay": 1010,
-    "timeWeek": 956,
-    "timeMonth": 898,
+    "timeDay": 1092,
+    "timeWeek": 969,
+    "timeMonth": 899,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2023-04-11": 23,
@@ -94,8 +93,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1292,
-      "2022-12-24": 16,
-      "2022-09-07": 36
+      "2022-12-24": 16
     }
   }
 ]
