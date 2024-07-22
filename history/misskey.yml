@@ -1,7 +1,7 @@
 url: $MISSKEY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-22T09:19:31.984Z
+status: up
+code: 200
+responseTime: 1384
+lastUpdated: 2024-07-22T09:27:58.442Z
 startTime: 2021-08-20T16:56:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
