@@ -10,11 +10,11 @@
     "uptimeWeek": "85.15%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "98.39%",
-    "time": 1182,
-    "timeDay": 1254,
-    "timeWeek": 1200,
-    "timeMonth": 1164,
-    "timeYear": 1161,
+    "time": 1181,
+    "timeDay": 1256,
+    "timeWeek": 1201,
+    "timeMonth": 1163,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-10-07": 124,
       "2024-10-06": 1373,
@@ -30,8 +30,7 @@
       "2024-01-06": 246,
       "2023-12-06": 87,
       "2023-11-07": 179,
-      "2023-11-06": 1320,
-      "2023-10-14": 27
+      "2023-11-06": 1320
     }
   },
   {
@@ -40,16 +39,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.16%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "92.79%",
     "time": 1145,
-    "timeDay": 1240,
-    "timeWeek": 1155,
-    "timeMonth": 1141,
-    "timeYear": 1135,
+    "timeDay": 1266,
+    "timeWeek": 1165,
+    "timeMonth": 1142,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2024-10-07": 124,
       "2024-10-06": 1371,
@@ -85,8 +84,7 @@
       "2023-12-27": 410,
       "2023-12-06": 85,
       "2023-11-07": 179,
-      "2023-11-06": 1319,
-      "2023-10-14": 26
+      "2023-11-06": 1319
     }
   },
   {
@@ -100,11 +98,11 @@
     "uptimeWeek": "85.18%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "98.47%",
-    "time": 951,
-    "timeDay": 1005,
-    "timeWeek": 983,
-    "timeMonth": 942,
-    "timeYear": 933,
+    "time": 952,
+    "timeDay": 1208,
+    "timeWeek": 1023,
+    "timeMonth": 948,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2024-10-07": 124,
       "2024-10-06": 1370,
@@ -119,8 +117,7 @@
       "2024-01-06": 243,
       "2023-12-06": 84,
       "2023-11-07": 179,
-      "2023-11-06": 1317,
-      "2023-10-14": 24
+      "2023-11-06": 1317
     }
   },
   {
@@ -129,16 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n8n",
     "status": "up",
-    "uptime": "94.62%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.19%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "98.48%",
-    "time": 921,
-    "timeDay": 991,
-    "timeWeek": 926,
-    "timeMonth": 908,
-    "timeYear": 902,
+    "time": 922,
+    "timeDay": 1028,
+    "timeWeek": 937,
+    "timeMonth": 909,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2024-10-07": 125,
       "2024-10-06": 1368,
@@ -152,8 +149,7 @@
       "2024-01-06": 241,
       "2023-12-06": 82,
       "2023-11-07": 179,
-      "2023-11-06": 1316,
-      "2023-10-14": 23
+      "2023-11-06": 1316
     }
   }
 ]
