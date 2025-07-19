@@ -11,10 +11,10 @@
     "uptimeMonth": "97.62%",
     "uptimeYear": "93.21%",
     "time": 1208,
-    "timeDay": 1122,
-    "timeWeek": 1372,
-    "timeMonth": 1800,
-    "timeYear": 1228,
+    "timeDay": 1192,
+    "timeWeek": 1325,
+    "timeMonth": 1792,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2025-07-06": 1045,
       "2025-06-09": 16,
@@ -47,8 +47,7 @@
       "2024-10-06": 1373,
       "2024-09-06": 19,
       "2024-08-07": 1153,
-      "2024-08-06": 1354,
-      "2024-07-19": 406
+      "2024-08-06": 1354
     }
   },
   {
@@ -61,11 +60,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "93.04%",
+    "uptimeYear": "93.05%",
     "time": 1216,
-    "timeDay": 1106,
-    "timeWeek": 1433,
-    "timeMonth": 1991,
+    "timeDay": 1216,
+    "timeWeek": 1392,
+    "timeMonth": 1983,
     "timeYear": 1242,
     "dailyMinutesDown": {
       "2025-07-06": 1044,
@@ -98,8 +97,7 @@
       "2024-10-06": 1371,
       "2024-09-06": 17,
       "2024-08-07": 1153,
-      "2024-08-06": 1353,
-      "2024-07-19": 1278
+      "2024-08-06": 1353
     }
   },
   {
@@ -108,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami",
     "status": "up",
-    "uptime": "96.64%",
+    "uptime": "96.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.62%",
     "uptimeYear": "93.29%",
     "time": 1022,
-    "timeDay": 960,
-    "timeWeek": 1234,
-    "timeMonth": 1765,
+    "timeDay": 972,
+    "timeWeek": 1192,
+    "timeMonth": 1758,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-07-06": 1043,
@@ -164,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.62%",
     "uptimeYear": "93.30%",
-    "time": 966,
-    "timeDay": 1034,
-    "timeWeek": 1253,
-    "timeMonth": 1783,
-    "timeYear": 1002,
+    "time": 988,
+    "timeDay": 940,
+    "timeWeek": 1210,
+    "timeMonth": 1774,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-07-06": 1042,
       "2025-06-07": 870,
