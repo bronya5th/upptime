@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "91.50%",
+    "uptime": "91.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.75%",
+    "uptimeYear": "66.47%",
     "time": 1783,
-    "timeDay": 919,
-    "timeWeek": 846,
-    "timeMonth": 891,
-    "timeYear": 2036,
+    "timeDay": 1040,
+    "timeWeek": 850,
+    "timeMonth": 894,
+    "timeYear": 2035,
     "dailyMinutesDown": {
-      "2025-11-05": 29,
+      "2025-11-06": 28,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -142,8 +143,7 @@
       "2025-02-06": 1344,
       "2025-01-07": 949,
       "2025-01-06": 1338,
-      "2024-12-06": 708,
-      "2024-11-06": 381
+      "2024-12-06": 708
     }
   },
   {
@@ -158,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.78%",
     "time": 1950,
-    "timeDay": 1120,
-    "timeWeek": 1038,
-    "timeMonth": 1284,
+    "timeDay": 1238,
+    "timeWeek": 1047,
+    "timeMonth": 1279,
     "timeYear": 2272,
     "dailyMinutesDown": {
       "2025-09-20": 952,
@@ -208,8 +208,7 @@
       "2025-02-06": 1342,
       "2025-01-07": 949,
       "2025-01-06": 1337,
-      "2024-12-06": 706,
-      "2024-11-06": 379
+      "2024-12-06": 706
     }
   },
   {
@@ -223,11 +222,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "88.76%",
-    "time": 1811,
-    "timeDay": 855,
-    "timeWeek": 1039,
-    "timeMonth": 1406,
-    "timeYear": 2220,
+    "time": 1812,
+    "timeDay": 1143,
+    "timeWeek": 1027,
+    "timeMonth": 1398,
+    "timeYear": 2221,
     "dailyMinutesDown": {
       "2025-10-27": 99,
       "2025-09-20": 952,
@@ -275,8 +274,7 @@
       "2025-02-06": 1341,
       "2025-01-07": 949,
       "2025-01-06": 1335,
-      "2024-12-06": 705,
-      "2024-11-06": 378
+      "2024-12-06": 705
     }
   },
   {
@@ -285,15 +283,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n8n",
     "status": "up",
-    "uptime": "87.77%",
+    "uptime": "87.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.62%",
-    "uptimeMonth": "19.18%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "22.46%",
     "uptimeYear": "68.50%",
     "time": 1597,
-    "timeDay": 671,
-    "timeWeek": 900,
-    "timeMonth": 925,
+    "timeDay": 1043,
+    "timeWeek": 837,
+    "timeMonth": 929,
     "timeYear": 1926,
     "dailyMinutesDown": {
       "2025-10-29": 874,
@@ -414,8 +412,7 @@
       "2025-02-06": 1339,
       "2025-01-07": 949,
       "2025-01-06": 1334,
-      "2024-12-06": 704,
-      "2024-11-06": 376
+      "2024-12-06": 704
     }
   }
 ]
