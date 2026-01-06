@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "88.06%",
+    "uptime": "88.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.24%",
+    "uptimeYear": "49.97%",
     "time": 1739,
-    "timeDay": 1020,
-    "timeWeek": 934,
-    "timeMonth": 872,
-    "timeYear": 2009,
+    "timeDay": 935,
+    "timeWeek": 936,
+    "timeMonth": 871,
+    "timeYear": 2008,
     "dailyMinutesDown": {
-      "2026-01-05": 34,
+      "2026-01-06": 32,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -201,8 +202,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1344,
-      "2025-01-07": 949,
-      "2025-01-06": 1338
+      "2025-01-07": 949
     }
   },
   {
@@ -213,14 +213,14 @@
     "status": "up",
     "uptime": "95.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.19%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "84.84%",
     "uptimeYear": "87.70%",
     "time": 2099,
-    "timeDay": 1124,
-    "timeWeek": 1055,
-    "timeMonth": 4160,
-    "timeYear": 2487,
+    "timeDay": 966,
+    "timeWeek": 1006,
+    "timeMonth": 4164,
+    "timeYear": 2486,
     "dailyMinutesDown": {
       "2025-12-29": 619,
       "2025-12-28": 1440,
@@ -272,8 +272,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1342,
-      "2025-01-07": 949,
-      "2025-01-06": 1337
+      "2025-01-07": 949
     }
   },
   {
@@ -284,13 +283,13 @@
     "status": "up",
     "uptime": "95.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.19%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "84.84%",
     "uptimeYear": "87.67%",
-    "time": 2001,
-    "timeDay": 1181,
-    "timeWeek": 1070,
-    "timeMonth": 4391,
+    "time": 1999,
+    "timeDay": 1016,
+    "timeWeek": 1074,
+    "timeMonth": 4376,
     "timeYear": 2489,
     "dailyMinutesDown": {
       "2025-12-29": 620,
@@ -344,8 +343,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1341,
-      "2025-01-07": 949,
-      "2025-01-06": 1335
+      "2025-01-07": 949
     }
   },
   {
@@ -356,14 +354,14 @@
     "status": "up",
     "uptime": "87.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.19%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "84.85%",
     "uptimeYear": "67.42%",
     "time": 1776,
-    "timeDay": 1077,
-    "timeWeek": 1094,
-    "timeMonth": 4284,
-    "timeYear": 2177,
+    "timeDay": 683,
+    "timeWeek": 1107,
+    "timeMonth": 4278,
+    "timeYear": 2176,
     "dailyMinutesDown": {
       "2025-12-29": 620,
       "2025-12-28": 1440,
@@ -488,8 +486,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1339,
-      "2025-01-07": 949,
-      "2025-01-06": 1334
+      "2025-01-07": 949
     }
   }
 ]
