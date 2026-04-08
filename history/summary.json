@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "85.16%",
+    "uptime": "85.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.26%",
-    "time": 1728,
-    "timeDay": 1028,
-    "timeWeek": 1068,
-    "timeMonth": 1582,
-    "timeYear": 1991,
+    "uptimeYear": "36.53%",
+    "time": 1727,
+    "timeDay": 946,
+    "timeWeek": 1032,
+    "timeMonth": 1017,
+    "timeYear": 1988,
     "dailyMinutesDown": {
       "2026-03-06": 1126,
       "2026-03-05": 1440,
@@ -249,8 +249,7 @@
       "2025-04-12": 604,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -263,12 +262,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.33%",
-    "time": 2160,
-    "timeDay": 885,
-    "timeWeek": 886,
-    "timeMonth": 1477,
-    "timeYear": 2565,
+    "uptimeYear": "90.61%",
+    "time": 2159,
+    "timeDay": 832,
+    "timeWeek": 860,
+    "timeMonth": 899,
+    "timeYear": 2561,
     "dailyMinutesDown": {
       "2026-03-06": 18,
       "2026-03-04": 39,
@@ -312,8 +311,7 @@
       "2025-04-12": 604,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -326,12 +324,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.31%",
+    "uptimeYear": "90.58%",
     "time": 2077,
-    "timeDay": 893,
-    "timeWeek": 855,
-    "timeMonth": 1426,
-    "timeYear": 2579,
+    "timeDay": 851,
+    "timeWeek": 826,
+    "timeMonth": 855,
+    "timeYear": 2575,
     "dailyMinutesDown": {
       "2026-03-06": 18,
       "2026-03-04": 39,
@@ -375,8 +373,7 @@
       "2025-04-12": 604,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -389,12 +386,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "70.01%",
-    "time": 1832,
-    "timeDay": 1213,
-    "timeWeek": 1115,
-    "timeMonth": 1662,
-    "timeYear": 2242,
+    "uptimeYear": "70.29%",
+    "time": 1833,
+    "timeDay": 1390,
+    "timeWeek": 1122,
+    "timeMonth": 1134,
+    "timeYear": 2239,
     "dailyMinutesDown": {
       "2026-03-12": 220,
       "2026-03-06": 36,
@@ -511,8 +508,7 @@
       "2025-04-12": 604,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   }
 ]
