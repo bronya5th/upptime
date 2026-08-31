@@ -6,14 +6,14 @@
     "slug": "gitea",
     "status": "up",
     "uptime": "86.32%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "48.42%",
-    "time": 1704,
-    "timeDay": 1289,
-    "timeWeek": 1099,
-    "timeMonth": 802,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "48.54%",
+    "time": 1702,
+    "timeDay": 1370,
+    "timeWeek": 1127,
+    "timeMonth": 805,
     "timeYear": 1607,
     "dailyMinutesDown": {
       "2026-03-06": 1126,
@@ -203,9 +203,7 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2025-08-31": 1440,
-      "2026-07-14": 111,
-      "2026-08-30": 9
+      "2026-07-14": 111
     }
   },
   {
@@ -215,15 +213,15 @@
     "slug": "misskey",
     "status": "up",
     "uptime": "95.72%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.68%",
-    "time": 2175,
-    "timeDay": 1272,
-    "timeWeek": 925,
-    "timeMonth": 650,
-    "timeYear": 2079,
+    "time": 2173,
+    "timeDay": 1327,
+    "timeWeek": 920,
+    "timeMonth": 654,
+    "timeYear": 2077,
     "dailyMinutesDown": {
       "2025-09-20": 952,
       "2025-09-19": 1440,
@@ -251,8 +249,7 @@
       "2026-03-03": 68,
       "2026-03-04": 39,
       "2026-03-06": 18,
-      "2026-07-14": 111,
-      "2026-08-30": 9
+      "2026-07-14": 111
     }
   },
   {
@@ -261,16 +258,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami",
     "status": "up",
-    "uptime": "96.01%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "96.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.65%",
     "time": 1989,
-    "timeDay": 1017,
-    "timeWeek": 748,
-    "timeMonth": 578,
-    "timeYear": 2027,
+    "timeDay": 1074,
+    "timeWeek": 772,
+    "timeMonth": 580,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2025-09-20": 952,
       "2025-09-19": 1440,
@@ -298,8 +295,7 @@
       "2026-03-03": 88,
       "2026-03-04": 39,
       "2026-03-06": 18,
-      "2026-07-14": 110,
-      "2026-08-30": 9
+      "2026-07-14": 110
     }
   },
   {
@@ -309,14 +305,14 @@
     "slug": "n8n",
     "status": "up",
     "uptime": "89.66%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "82.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "82.30%",
     "time": 1911,
-    "timeDay": 2244,
-    "timeWeek": 1950,
-    "timeMonth": 1281,
+    "timeDay": 2272,
+    "timeWeek": 1951,
+    "timeMonth": 1286,
     "timeYear": 2067,
     "dailyMinutesDown": {
       "2025-10-29": 874,
@@ -378,7 +374,6 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2025-08-31": 1440,
       "2025-11-18": 114,
       "2025-12-29": 620,
       "2025-12-28": 1440,
@@ -391,8 +386,7 @@
       "2026-03-06": 36,
       "2026-03-12": 220,
       "2026-04-20": 18,
-      "2026-07-14": 110,
-      "2026-08-30": 9
+      "2026-07-14": 110
     }
   }
 ]
